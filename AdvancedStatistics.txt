@@ -1,0 +1,29 @@
+What are the features of multivariate random variable? - Both
+Multivariate data analysis helps us to__ - Both
+Pattern such as group or trend in the data table can not be studied using Multivariate data analysis. - Incorrect
+What is multivariate statistics? - All
+Use of only one variable to describe the data is known as__ - Univariate
+Multivariate data analysis is application of__ - All
+__ is an example of Multivariate analysis in which relationship exist between a dependent variable and independent variable/s. -  Partial Lease
+What is done when a new data in the sub Interval is added? - one bin is added
+Independent variables refers to those variables__ -  acts as input
+Dependent variables refers to those variables__ - Whose variation is never analysed
+If the area under the PDF curve is zero, then__ = 0
+Principal component analysis reduces__ = Corelated
+Least number of coordinates required to showcase a point is__ - Dimenion
+Stochastic variables are also known as__ - random
+Probability mass function is also known as__ - Prob Density Function
+Amalgamation paradox is also known as__  simpson
+What is box kernel density estimate? - Block in the histogram is centered over the data points
+What is Random walk? - We can not predict the outcome in advance.
+Features of probability density function are__ - All
+We use __ in histogram for sub intervals. - bins
+Which estimation can be represented by a single value? - Point
+What is Kernel density estimation? - Non parametric
+What is prior probability? - Probability distribution done in lack of evidence.
+Lurking variable remains__ - Hidden
+----
+
+Incorrect
+What is the drawback of using Kernel density estimation's Histogram method? - Independent (x), smooth (x)
+In box kernel density estimation,__ - The histogram is decentralised over several data points. (x)
